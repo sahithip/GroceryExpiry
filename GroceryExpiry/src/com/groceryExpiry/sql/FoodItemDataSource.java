@@ -1,11 +1,11 @@
-package com.cisc325.g3.fridgeaware.sql;
+package com.groceryExpiry.sql;
 
 import java.text.ParseException;
 import java.util.Date;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.cisc325.g3.fridgeaware.models.FoodItem;
+import com.groceryExpiry.models.FoodItem;
 
 import android.content.ContentValues;
 import android.content.Context;

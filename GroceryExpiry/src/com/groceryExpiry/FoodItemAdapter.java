@@ -1,4 +1,4 @@
-package com.cisc325.g3.fridgeaware;
+package com.groceryExpiry;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -14,7 +14,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.cisc325.g3.fridgeaware.models.*;
+import com.groceryExpiry.models.*;
 
 public class FoodItemAdapter extends ArrayAdapter<FoodItem>{
 

@@ -1,4 +1,4 @@
-package com.cisc325.g3.fridgeaware.models;
+package com.groceryExpiry.models;
 
 import java.text.SimpleDateFormat;
 import java.util.*;

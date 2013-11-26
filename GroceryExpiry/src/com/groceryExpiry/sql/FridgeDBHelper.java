@@ -1,4 +1,4 @@
-package com.cisc325.g3.fridgeaware.sql;
+package com.groceryExpiry.sql;
 
 import android.content.Context;
 import android.database.DatabaseErrorHandler;

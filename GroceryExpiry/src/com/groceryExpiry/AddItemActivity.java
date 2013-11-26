@@ -1,9 +1,10 @@
-package com.cisc325.g3.fridgeaware;
+package com.groceryExpiry;
 
 import java.util.Date;
 
-import com.cisc325.g3.fridgeaware.models.FoodItem;
-import com.cisc325.g3.fridgeaware.sql.FoodItemDataSource;
+
+import com.groceryExpiry.models.FoodItem;
+import com.groceryExpiry.sql.FoodItemDataSource;
 
 import android.os.Bundle;
 import android.app.Activity;

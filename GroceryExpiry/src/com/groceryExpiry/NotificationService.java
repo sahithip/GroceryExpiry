@@ -1,9 +1,9 @@
-package com.cisc325.g3.fridgeaware;
+package com.groceryExpiry;
 
 import java.util.Date;
 import java.util.Calendar;
 
-import com.cisc325.g3.fridgeaware.models.FoodItem;
+import com.groceryExpiry.models.FoodItem;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
